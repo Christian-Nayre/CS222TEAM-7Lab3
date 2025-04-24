@@ -1,4 +1,3 @@
-# CS222TEAM-7Lab3
 # 📖✨ Digital Diary 📖✨  
 *A C# Console Application for CS 222 - Advanced Object-Oriented Programming*
 
