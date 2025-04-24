@@ -1,0 +1,14 @@
+C:\Users\cnayr\LabActivity3\bin\Debug\net9.0\LabActivity3.exe
+C:\Users\cnayr\LabActivity3\bin\Debug\net9.0\LabActivity3.deps.json
+C:\Users\cnayr\LabActivity3\bin\Debug\net9.0\LabActivity3.runtimeconfig.json
+C:\Users\cnayr\LabActivity3\bin\Debug\net9.0\LabActivity3.dll
+C:\Users\cnayr\LabActivity3\bin\Debug\net9.0\LabActivity3.pdb
+C:\Users\cnayr\LabActivity3\obj\Debug\net9.0\LabActivity3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cnayr\LabActivity3\obj\Debug\net9.0\LabActivity3.AssemblyInfoInputs.cache
+C:\Users\cnayr\LabActivity3\obj\Debug\net9.0\LabActivity3.AssemblyInfo.cs
+C:\Users\cnayr\LabActivity3\obj\Debug\net9.0\LabActivity3.csproj.CoreCompileInputs.cache
+C:\Users\cnayr\LabActivity3\obj\Debug\net9.0\LabActivity3.dll
+C:\Users\cnayr\LabActivity3\obj\Debug\net9.0\refint\LabActivity3.dll
+C:\Users\cnayr\LabActivity3\obj\Debug\net9.0\LabActivity3.pdb
+C:\Users\cnayr\LabActivity3\obj\Debug\net9.0\LabActivity3.genruntimeconfig.cache
+C:\Users\cnayr\LabActivity3\obj\Debug\net9.0\ref\LabActivity3.dll
