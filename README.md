@@ -40,8 +40,68 @@ This app follows **object-oriented programming (OOP)** principles to maintain a 
 > ┗ 📜 README.md
 
 
----
 
+---
+## 📷 Sample Output
+```bash
+=== DIGITAL DIARY ===
+1. Write a New Entry
+2. View All Entries
+3. Search Entry by Date
+4. Exit
+Choose an option: 1
+
+Write your diary entry (press Enter to submit): paul
+Entry successfully written.
+
+Press any key to return menu...
+
+=== DIGITAL DIARY ===
+1. Write a New Entry
+2. View All Entries
+3. Search Entry by Date
+4. Exit
+Choose an option: 2
+
+---- All Entries ----
+2025-05-06 22:41:45 | paul
+
+Press any key to return menu...
+
+=== DIGITAL DIARY ===
+1. Write a New Entry
+2. View All Entries
+3. Search Entry by Date
+4. Exit
+Choose an option: 3
+
+Enter date to search (YYYY-MM-DD): 2025-05-06
+----- Entries on 2025-05-06 ----
+2025-05-06 22:41:45 | paul
+
+Press any key to return menu...
+
+=== DIGITAL DIARY ===
+1. Write a New Entry
+2. View All Entries
+3. Search Entry by Date
+4. Exit
+Choose an option: adfsd
+
+Invalid option. Try again.
+Press any key to return menu...
+
+=== DIGITAL DIARY ===
+1. Write a New Entry
+2. View All Entries
+3. Search Entry by Date
+4. Exit
+Choose an option: 4
+
+Goodbye! See you again :)
+
+```
+---
 ## 👥 Team Members  
 
 - 🧑‍💻 Alcaraz, Paul C. 
