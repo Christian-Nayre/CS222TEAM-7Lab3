@@ -33,11 +33,12 @@ This app follows **object-oriented programming (OOP)** principles to maintain a 
 ---
 
 ## 📂 File Structure  
-📦 DigitalDiaryApp
- ┣ 📜 Program.cs
- ┣ 📜 Diary.cs
- ┣ 📜 diary.txt (auto-created)
- ┗ 📜 README.md
+> 📦 DigitalDiaryApp  
+> ┣ 📜 Program.cs  
+> ┣ 📜 Diary.cs  
+> ┣ 📜 diary.txt (auto-created)  
+> ┗ 📜 README.md
+
 
 ---
 
