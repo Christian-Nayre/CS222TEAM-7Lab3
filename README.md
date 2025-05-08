@@ -113,7 +113,7 @@ Goodbye! See you again :)
 
 ## 🙏 Acknowledgement  
 
-📚 Big thanks to our **CS 222 - Advanced Object-Oriented Programming** professor for guiding us through the world of C# OOP and file handling! 🚀  
+📚 Big thanks to our CS 222 - Advanced Object-Oriented Programming professor, Ms. Fatima Marie Agdon, for guiding us through the thrilling adventures of C# AOOP and file handling! 🚀 Your passion for teaching, sharp eye for detail, and endless patience truly made this journey not just educational—but enjoyable. Thank you for making complex concepts feel like an exciting puzzle, and for always cheering us on, one bracket at a time! 💻✨
 
 ---
 
